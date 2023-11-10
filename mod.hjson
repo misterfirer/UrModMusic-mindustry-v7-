@@ -1,0 +1,13 @@
+name: "UrModMusic"
+minGameVersion: 145.1
+displayName: "UrModMusic"
+author: "SausageCheck1"
+subtitle: "Version: v1.0"
+description:
+
+'''
+UrMod Music Pack
+'''
+
+dependencies: []
+hideBrowser: false
